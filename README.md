@@ -1,8 +1,7 @@
 # servlet-3.0
 
 ### 참고 URL
-- http://toby.epril.com/?p=1205
-  -스프링 3.1 (8) web.xml 없는 스프링 개발
+- [스프링 3.1 (8) web.xml 없는 스프링 개발](http://toby.epril.com/?p=1205)
 
 ### 테스트용 URL 
 - http://127.0.0.1:8080/servlet3/hi
